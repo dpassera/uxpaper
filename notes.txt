@@ -1,0 +1,8 @@
+Next
+- Add API Helper library.
+- PHP server for login.
+- Basic admin panel.
+
+===
+
+{"status":"success", "url":"http://www.monkeydriver.com/projectname"}
